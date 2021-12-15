@@ -21,4 +21,4 @@ I have made a python script (IMDb.py) which extracts details of any movie from I
 4.	From the JSON, it extracts important details and dumps them into MySQL table.
 
 ## Sample Table
-![Sample MySQL Table](\sample.png)
+![Sample MySQL Table](sample.png)
