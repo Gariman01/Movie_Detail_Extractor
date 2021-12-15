@@ -1,9 +1,3 @@
-'''
-Name: Gariman Singh
-Reg. No.: MS18057
-Course: IDC409
-'''
-
 import requests
 from bs4 import BeautifulSoup
 import mysql.connector
